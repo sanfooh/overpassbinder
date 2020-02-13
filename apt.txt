@@ -1,7 +1,4 @@
 wget
-libtool
-zip
-apt-get
 g++
 make
 expat
