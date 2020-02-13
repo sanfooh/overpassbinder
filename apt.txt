@@ -2,7 +2,6 @@ wget
 libtool
 zip
 apt-get
-install
 g++
 make
 expat
